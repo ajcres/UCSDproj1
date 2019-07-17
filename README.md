@@ -8,4 +8,7 @@ Y2JtxeQAwn5BMUgxAffVfbcfVa9arP8a0qohaLjWJtKkmPmPfK (API secret key)
 
 resources:
 https://www.alexkras.com/how-to-get-user-feed-with-twitter-api-and-python/
+
 https://pypi.org/project/twitter/
+
+https://github.com/shekhargulati/sentiment-analysis-python/blob/master/opinion-lexicon-English/positive-words.txt
